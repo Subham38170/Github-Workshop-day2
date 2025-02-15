@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-This is data file.
-=======
-This is data file
->>>>>>> subham
+My Information
+
+Name : Subham Sahu
+Roll : 202312039
+Branch : CST
